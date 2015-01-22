@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/9/2014 3:04:01 PM
+
+BeginCmp
+TimeStamp = /542B1057;
+Reference = B1;
+ValeurCmp = BUTTON;
+IdModule  = button;
+EndCmp
+
+BeginCmp
+TimeStamp = /542B1067;
+Reference = B2;
+ValeurCmp = BUTTON;
+IdModule  = button;
+EndCmp
+
+BeginCmp
+TimeStamp = /542B1076;
+Reference = B3;
+ValeurCmp = BUTTON;
+IdModule  = button;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AB024;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AAB35;
+Reference = P1;
+ValeurCmp = PROMINI;
+IdModule  = PROMINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AAEAD;
+Reference = Q1;
+ValeurCmp = NPN;
+IdModule  = TO92PN;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AAECD;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54317DFF;
+Reference = R2;
+ValeurCmp = 330;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54317E18;
+Reference = R3;
+ValeurCmp = 330;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54317E27;
+Reference = R4;
+ValeurCmp = 330;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AB0E8;
+Reference = RV1;
+ValeurCmp = 10K;
+IdModule  = POT_CMS;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AAE96;
+Reference = U1;
+ValeurCmp = RALAY5V;
+IdModule  = RELAY5V;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AB272;
+Reference = U2;
+ValeurCmp = 16X2LCD;
+IdModule  = 16X2LCD;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AADE0;
+Reference = U3;
+ValeurCmp = RTCDS1307;
+IdModule  = RTC;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AAD2C;
+Reference = U4;
+ValeurCmp = US;
+IdModule  = US;
+EndCmp
+
+BeginCmp
+TimeStamp = /542AACE6;
+Reference = U5;
+ValeurCmp = POWERIN;
+IdModule  = POWERPRO;
+EndCmp
+
+BeginCmp
+TimeStamp = /542B80E0;
+Reference = U6;
+ValeurCmp = MARKER;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /542B810D;
+Reference = U7;
+ValeurCmp = MARKER;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /542B80EF;
+Reference = U8;
+ValeurCmp = MARKER;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /542B80FE;
+Reference = U9;
+ValeurCmp = MARKER;
+IdModule  = 1pin;
+EndCmp
+
+EndListe
